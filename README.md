@@ -2,17 +2,13 @@
 
 Link to Application: https://jandrews16.github.io/virtual-cookbook/
 
-This application allows users to create their own virtual cookbook as well as find recipes based on their desired ingredients. 
-
-
-## Key Features
-
-The application features the ability to save recipes on different devices as well as a search option for recipes based on specific ingredients.
+This application allows users to create their own virtual cookbook as well as find recipes based on their desired ingredients. Key features the ability to save personal  recipes on different devices as well as search and save recipes based on specific ingredients.
 
 
 ## Code Description
 
 The code uses a server-side api which returns various recipes based on specific ingredient inputs. 
+
 
 ## Overview
 
@@ -38,6 +34,6 @@ WHEN user leaves the application or refreshed page
 THEN their cookbooks will be stored in local storage
 
 
-## Demo & Photos of Application
+## Demo of Application
 
-what up what up
+![vrtual cookbook demo](./assets/images/Virtual Cookbook Demo.mp4)
