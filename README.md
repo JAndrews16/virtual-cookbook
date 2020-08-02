@@ -36,4 +36,4 @@ THEN their cookbooks will be stored in local storage
 
 ## Demo of Application
 
-![vrtual cookbook demo](./assets/images/Virtual Cookbook Demo.mp4)
+![virtual cookbook demo](./assets/images/Virtual Cookbook Demo.mp4)
